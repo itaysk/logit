@@ -1,0 +1,1 @@
+The app stores the routines and log entries you create in your iCloud account using Apple CloudKit. If you choose to share a routine, that routine’s data is shared with the people you invite. The app does not use ads, third-party analytics, or sell your data.
