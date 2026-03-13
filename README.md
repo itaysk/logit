@@ -1,6 +1,6 @@
-# Logit - iOS routine tracking app
+# Logly - iOS routine tracking app
 
-Logit helps you keep track of your routines, habits, chores, goals and more. 
+Logly helps you keep track of your routines, habits, chores, goals and more. 
 
 - Simple and functional - One tap to log.
 - Multi-device support, seamless iCloud syncing.
